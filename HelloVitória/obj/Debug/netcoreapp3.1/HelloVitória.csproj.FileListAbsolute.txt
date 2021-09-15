@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\bin\Debug\netcoreapp3.1\HelloVitória.exe
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\bin\Debug\netcoreapp3.1\HelloVitória.deps.json
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\bin\Debug\netcoreapp3.1\HelloVitória.runtimeconfig.json
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\bin\Debug\netcoreapp3.1\HelloVitória.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\bin\Debug\netcoreapp3.1\HelloVitória.dll
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\bin\Debug\netcoreapp3.1\HelloVitória.pdb
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\obj\Debug\netcoreapp3.1\HelloVitória.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\obj\Debug\netcoreapp3.1\HelloVitória.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\obj\Debug\netcoreapp3.1\HelloVitória.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\obj\Debug\netcoreapp3.1\HelloVitória.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\obj\Debug\netcoreapp3.1\HelloVitória.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\obj\Debug\netcoreapp3.1\HelloVitória.dll
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\obj\Debug\netcoreapp3.1\HelloVitória.pdb
+C:\Users\Windows\Desktop\Capacitação Tecnológica em .NET - IFPE e SiDi\First Steps in CSharp\HelloVitória\obj\Debug\netcoreapp3.1\HelloVitória.genruntimeconfig.cache
