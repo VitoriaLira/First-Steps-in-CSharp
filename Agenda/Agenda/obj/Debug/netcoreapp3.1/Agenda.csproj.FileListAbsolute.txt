@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.exe
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.deps.json
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.json
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.pdb
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.pdb
+C:\Users\Windows\Desktop\Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPE\Capacitação Tecnológica em .NET - IFPE e SiDi\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.genruntimeconfig.cache
