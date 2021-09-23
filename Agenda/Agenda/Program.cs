@@ -71,7 +71,7 @@ namespace agenda
             inicio = ("==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==\n" + 
                 "\n                    MY CONTACTS                 \n" +
                 "\n==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==\n" +
-                "  Olá, seja bem vindo(a) a sua agenda virtual!!!  |\n" +
+                "  Olá, seja bem vindo(a) a sua agenda virtual!!!  \n" +
                 "-------------------------------------------------- \n" +
                 "     Por favor, escolha uma das opções abaixo: \n" +
                 "\n[1] - Iniciar! \n" +
@@ -89,14 +89,16 @@ namespace agenda
 
             if (iniciar == '2') 
             {
-                Console.WriteLine("Finalizando...");
+                Console.WriteLine("\n==-==-==-==-==-==-==-==-==-==-==-==-==");
+                Console.WriteLine("             Finalizando...             ");
+                Console.WriteLine("==-==-==-==-==-==-==-==-==-==-==-==-==");
             }
 
             else if (iniciar == '1')
             {
                 System.Threading.Thread.Sleep(1000);
                 Console.WriteLine("\n==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==");
-                Console.WriteLine("  ÓTIMO!!! Você optou por iniciar a sua jornada em sua agenda virtual. |");
+                Console.WriteLine("  ÓTIMO!!! Você optou por iniciar a sua jornada em sua agenda virtual. ");
                 Console.WriteLine("==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==\n");
 
                 escolha = ('1');
@@ -261,7 +263,7 @@ namespace agenda
                         case '2':
 
                             Console.WriteLine("\n==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==");
-                            Console.WriteLine("Por favor, digite o primeiro nome do contato que deseja buscar: ");
+                            Console.WriteLine("Por favor, digite o 'PRIMEIRO NOME' do contato que deseja buscar: ");
                             buscar_nome = (Console.ReadLine());
                             for (byte contact = 0; contact < agendas.Length; contact += 1)
                             {
@@ -277,7 +279,7 @@ namespace agenda
                         case '3':
 
                             Console.WriteLine("\n==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==");
-                            Console.WriteLine("Por favor, digite o primeiro nome e o sobrenome do contato que deseja buscar: \n");
+                            Console.WriteLine("Por favor, digite o 'PRIMEIRO NOME' e o 'SOBRENOME' do contato que deseja buscar: \n");
                             Console.WriteLine("Primeiro nome: ");
                             buscar_nome = (Console.ReadLine());
                             Console.WriteLine("\nSobrenome: ");
@@ -296,7 +298,7 @@ namespace agenda
                         case '4':
 
                             Console.WriteLine("\n==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==");
-                            Console.WriteLine("Por favor, digite o tipo de contato do contato que deseja buscar: ");
+                            Console.WriteLine("Por favor, digite o 'TIPO DE CONTATO' do contato que deseja buscar: ");
                             buscar_tipocontato = (Console.ReadLine());
                             for (byte contact = 0; contact < agendas.Length; contact += 1)
                             {
@@ -312,7 +314,7 @@ namespace agenda
                         case '5':
 
                             Console.WriteLine("\n==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==");
-                            Console.WriteLine("Por favor, digite a cidade do contato que deseja buscar: ");
+                            Console.WriteLine("Por favor, digite a 'CIDADE' do contato que deseja buscar: ");
                             buscar_cidade = (Console.ReadLine());
                             for (byte contact = 0; contact < agendas.Length; contact += 1)
                             {
@@ -328,7 +330,7 @@ namespace agenda
                         case '6':
 
                             Console.WriteLine("\n==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==");
-                            Console.WriteLine("Por favor, digite o primeiro nome, sobrenome, tipo de contato e a cidade do contato que deseja remover: \n");
+                            Console.WriteLine("Por favor, digite o 'PRIMEIRO NOME', 'SOBRENOME', 'TIPO DE CONTATO' e a 'CIDADE' do contato que deseja remover: \n");
                             Console.WriteLine("Primeiro nome: ");
                             buscar_nome = (Console.ReadLine());
                             Console.WriteLine("\nSobrenome: ");
@@ -341,28 +343,36 @@ namespace agenda
                             {
                                 if (buscar_nome == agendas[contact].primeiro_nome && buscar_sobrenome == agendas[contact].sobrenome && buscar_tipocontato == agendas[contact].tipo_contato && buscar_cidade == agendas[contact].cidade)
                                 {
-                                    agendas[cont].primeiro_nome = (" ");
-                                    agendas[cont].sobrenome = (" ");
-                                    agendas[cont].tipo_contato = (" ");
-                                    agendas[cont].DDD = 0;
-                                    agendas[cont].numero_contato = 0;
-                                    agendas[cont].dia = 0;
-                                    agendas[cont].mes = 0;
-                                    agendas[cont].ano = 0;
-                                    agendas[cont].email = (" ");
-                                    agendas[cont].bairro = (" ");
-                                    agendas[cont].cidade = (" ");
-                                    agendas[cont].estado = (" ");
-                                    agendas[cont].observacaoespecial = (" ");
+                                    agendas[contact].primeiro_nome = (" ");
+                                    agendas[contact].sobrenome = (" ");
+                                    agendas[contact].tipo_contato = (" ");
+                                    agendas[contact].DDD = 0;
+                                    agendas[contact].numero_contato = 0;
+                                    agendas[contact].dia = 0;
+                                    agendas[contact].mes = 0;
+                                    agendas[contact].ano = 0;
+                                    agendas[contact].email = (" ");
+                                    agendas[contact].bairro = (" ");
+                                    agendas[contact].cidade = (" ");
+                                    agendas[contact].estado = (" ");
+                                    agendas[contact].observacaoespecial = (" ");
+                                    cont = contact;
                                 }
                             }
-                                Console.WriteLine("--------------------------------------------------------------------------------------------------------------\n");
+                            System.Threading.Thread.Sleep(1000);
+                            Console.WriteLine("\nAguarde um momento...");
+                            System.Threading.Thread.Sleep(1000);
+                            Console.WriteLine("\n==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==");
+                            Console.WriteLine("                                                CONTATO REMOVIDO!                                            ");
+                            Console.WriteLine("--------------------------------------------------------------------------------------------------------------\n");
 
                             break;
 
                         case '7':
 
-                            Console.WriteLine("\nFinalizando...");
+                            Console.WriteLine("\n==-==-==-==-==-==-==-==-==-==-==-==-==");
+                            Console.WriteLine("             Finalizando...             ");
+                            Console.WriteLine("==-==-==-==-==-==-==-==-==-==-==-==-==");
 
                             break;
                     }
