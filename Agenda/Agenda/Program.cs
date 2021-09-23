@@ -359,6 +359,7 @@ namespace agenda
                                     cont = contact;
                                 }
                             }
+
                             System.Threading.Thread.Sleep(1000);
                             Console.WriteLine("\nAguarde um momento...");
                             System.Threading.Thread.Sleep(1000);
